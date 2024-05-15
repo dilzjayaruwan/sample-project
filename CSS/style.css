@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Briem+Hand:wght@100..900&family=Jacquard+12&family=Poetsen+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Briem+Hand:wght@100..900&family=Jacquard+12&family=Jersey+25+Charted&family=Poetsen+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Briem+Hand:wght@100..900&family=Jacquard+12&family=Jersey+25+Charted&family=Poetsen+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Noto+Serif+JP:wght@200..900&display=swap');
+body {
+    background-image: url(./images/bg.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1 {
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-family: "Anton", sans-serif;
+}
+
+
+p {
+
+    color: white;
+    text-align: justify;
+    font-family: "Briem Hand", cursive;
+
+}
+
+tr {
+    color: white;
+    font-family: "Poetsen One", sans-serif;
+    text-align: justify;
+
+
+
+
+
+}
+
+
+.sample_class {
+    background-color: aquamarine;
+    text-align: center;
+    margin: 10px;
+    color: black;
+    border: 10px solid greenyellow;
+    
+    
+
+
+}
+
+#sample_ID {
+    background-color: aqua;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    color: black;
+    border: 10px solid greenyellow;
+   
+}
+
+.box01 {
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    position: sticky;
+    top: 60px;
+z-index: 1;
+    
+
+}
+
+.box02 {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: sticky;
+    
+   
+    top: 60px;
+
+
+}
